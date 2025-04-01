@@ -1,0 +1,18 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "media",
+        "2": "technical",
+        "3": "productivity",
+        "4": "data (things)"
+    },
+    "data_tracked": false,
+    "demo_page": "https://rapidplugins-2.bubbleapps.io/version-test/embedsheet",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nEmbed your Google Sheets into your Bubble application and allow your users to directly access and edit them.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1585912448935x372268380026334000/notes.png",
+    "license": "open_source",
+    "link": "https://docs.zeroqode.com/plugins/embed-google-sheets",
+    "name": "Embed Google Sheets",
+    "plugin_instructions": "Please refer to the plugin documentation to see how to configure it: https://docs.zeroqode.com/plugins/embed-google-sheets",
+    "sa_node_version": 18
+}
